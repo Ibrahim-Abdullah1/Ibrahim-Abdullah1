@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibrahim-Abdullah1
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Cross Platform App Development
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 🌱 I’m Flutter App Developer
+- 💞️ I’m looking to collaborate on Flutter Projects and python scripts.
 - 📫 How to reach me sabirsufi1122@gmail.com
 
 <!---
