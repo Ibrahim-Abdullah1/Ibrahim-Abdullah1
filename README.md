@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m Flutter App Developer
 - 💞️ I’m looking to collaborate on Flutter Projects and python scripts.
-- 📫 How to reach me sabirsufi1122@gmail.com
+- 📫 How to reach me ibrahim.abdullah19220@gmail.com
 
 <!---
 Ibrahim-Abdullah1/Ibrahim-Abdullah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
