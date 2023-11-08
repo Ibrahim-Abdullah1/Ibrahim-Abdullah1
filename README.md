@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibrahim-Abdullah1
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding Talks, Keeping myself open to discussion.
 - 🌱 I’m Flutter App Developer
 - 💞️ I’m looking to collaborate on Flutter Projects and python scripts.
 - 📫 How to reach me ibrahim.abdullah19220@gmail.com
