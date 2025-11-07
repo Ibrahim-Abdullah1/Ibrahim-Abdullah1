@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibrahim-Abdullah1
 - 👀 I’m interested in Coding Talks, Keeping myself open to discussion.
-- 🌱 I’m Software Engineer-flutter
-- 💞️ I’m looking to collaborate on Flutter Projects and python scripts.
+- 🌱 I’m Software Engineer
+- 💞️ I’m looking to collaborate on SAAS Projects and custom solutions.
 - 📫 How to reach me ibrahim.abdullah19220@gmail.com
 
 <!---
